@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore-Tutorial-C35", "EntityFrameworkCore-Tutorial-C35\EntityFrameworkCore-Tutorial-C35.csproj", "{1ED86D02-C5ED-4A93-86C6-EF2AB974D14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED86D02-C5ED-4A93-86C6-EF2AB974D14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED86D02-C5ED-4A93-86C6-EF2AB974D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED86D02-C5ED-4A93-86C6-EF2AB974D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED86D02-C5ED-4A93-86C6-EF2AB974D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F248D3DA-7586-4533-9353-2B3A4C373FA8}
+	EndGlobalSection
+EndGlobal
